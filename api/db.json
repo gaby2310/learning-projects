@@ -1,0 +1,34 @@
+{
+  "streams": [
+    {
+      "title": "Test",
+      "description": "Test1",
+      "id": 1
+    },
+    {
+      "title": "Test",
+      "description": "Test2",
+      "id": 2
+    },
+    {
+      "title": "sdfdsf",
+      "description": "dsfdsf",
+      "id": 3
+    },
+    {
+      "title": "Test3",
+      "description": "14.04",
+      "id": 4
+    },
+    {
+      "title": "Test4",
+      "description": "14.04bvvv",
+      "id": 5
+    },
+    {
+      "title": "Test5",
+      "description": "5T",
+      "id": 6
+    }
+  ]
+}
